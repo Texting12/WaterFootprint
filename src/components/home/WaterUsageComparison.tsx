@@ -14,7 +14,6 @@ const WaterUsageComparison: React.FC = () => {
 
   const productData: Record<ProductType, ProductData[]> = {
     food: [
-      { name: 'Beef (1kg)', waterLiters: 15400, iconUrl: '🥩' },
       { name: 'Chicken (1kg)', waterLiters: 4325, iconUrl: '🍗' },
       { name: 'Rice (1kg)', waterLiters: 2500, iconUrl: '🍚' },
       { name: 'Apples (1kg)', waterLiters: 822, iconUrl: '🍎' },
