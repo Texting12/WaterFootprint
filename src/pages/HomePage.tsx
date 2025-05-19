@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-3xl">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-                Understand Your <span className="text-blue-300">Water Footprint</span><br/> <span className="text-red-400">(Made by Group 3) </span>
+                Understand Your <span className="text-blue-300">Water Footprint</span><br/> <span className="text-red-400">(Made by Ishaan and Abhay) </span>
               </h1>
               <p className="text-xl text-white mb-8 max-w-2xl">
                 Discover the hidden water costs behind everyday choices and learn how to make water-wise decisions for a sustainable future.
